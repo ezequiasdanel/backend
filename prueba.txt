@@ -1,0 +1,34 @@
+[
+  {
+    "nombre": "Escuadra",
+    "precio": 323.45,
+    "id": 1
+  },
+  {
+    "nombre": "pantalon",
+    "precio": 323.45,
+    "id": 2
+  }
+][
+  {
+    "nombre": "Escuadra",
+    "precio": 323.45,
+    "id": 1
+  }
+][
+  {
+    "nombre": "Escuadra",
+    "precio": 323.45,
+    "id": 1
+  },
+  {
+    "nombre": "pantalon",
+    "precio": 323.45,
+    "id": 2
+  },
+  {
+    "nombre": "cc",
+    "precio": 323.45,
+    "id": 3
+  }
+]
